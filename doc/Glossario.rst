@@ -1,4 +1,4 @@
-﻿.. glossary::
+.. glossary::
 
    Boomerang:
       È un’applicazione che mette a disposizione Instagram e che permette difare dei brevissimi video. Consiste nello scattare 10 foto in sequenza, che messe insieme dall’applicazione consentiranno di realizzare un video della lunghezza di 4 secondi.
