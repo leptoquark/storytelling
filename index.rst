@@ -10,4 +10,6 @@ Storytelling
    doc/2. Lo storytelling per promuovere i servizi pubblici.rst
    doc/3. Le tecniche di storytelling.rst
    doc/4. I canali dello storytelling.rst
-   doc/Glossario.rst
+   
+.. only:: html
+   .. include:: index-glossary.rst
