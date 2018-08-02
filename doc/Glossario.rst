@@ -10,9 +10,10 @@
 
 .. glossary::
 
-   Swipe up
+   Swipe up:
       È un link che può essere inserito nel contenuto delle Instagram Stories, che permette di portare l’utente fuori dall’applicazione su una landing page creata ad hoc, oppure su una pagina specifica di un sito web.
 
 .. glossary::
-   Storie (di Facebook)
+
+   Storie (di Facebook):
      È una funzione di Facebook che consiste nel caricamento di immagini che non appaiono nel consueto stream dei contenuti, ma solo se si fa un tap sulla faccia del singolo amico mostrato nella nuova barra in alto. In questa barra vengono mostrati solo gli amici che hanno pubblicato qualcosa nelle ultime 24 ore e se ci sono nuovi contenuti troverete un cerchio blu a indicarlo. Passate le 24 ore dalla pubblicazione il contenuto è perso per sempre.
