@@ -37,8 +37,4 @@ Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Ita
    doc/2. Lo storytelling per promuovere i servizi pubblici.rst
    doc/3. Le tecniche di storytelling.rst
    doc/4. I canali dello storytelling.rst
-   
-.. toctree::
-   :caption: Glossario
-
    doc/Glossario.rst
