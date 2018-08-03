@@ -15,15 +15,14 @@ creando “un’esperienza informativa” completa per l’utente sul
 prodotto/servizio o iniziativa della tua amministrazione.
 
 Ricorda che il lettore online cerca velocemente le informazioni di cui
-ha bisogno (link linee guida design tasso di abbandono), organizzale in
-modo funzionale e non dimenticare di aggiornare periodicamente le tue
+ha bisogno, `organizzale in modo funzionale <https://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html>`_ e non dimenticare di aggiornare periodicamente le tue
 storie con nuovi i contenuti!
 
 .. admonition:: DEVI
 
    - Utilizzare sempre lo stesso registro stilistico per ogni storia che racconti: scegli di alimentare ogni storia all’interno del “canale” con immagini, video, testi o claim stilisticamente simili tra loro in maniera tale da renderla riconoscibile e distinta dalle altre.
 
-   - Utilizzare un linguaggio informale e rendere dinamico il contenuto con immagini, hyperlink, video, ecc.
+   - Utilizzare un linguaggio informale e rendere dinamico il contenuto con immagini, hyperlink, video, etc.
 
 .. admonition:: DOVRESTI
 
@@ -75,8 +74,7 @@ Con Facebook puoi condividere post attrattivi per invogliare le persone
 ad approfondire il racconto online o sviluppare il tuo racconto
 organizzandolo in album dedicati con immagini o video.
 
-Puoi arricchire il tuo racconto con la funzione “storie” (*vedi
-glossario*) che possono essere anteprime per poi diventare mini video
+Puoi arricchire il tuo racconto con la funzione “storie” che possono essere anteprime per poi diventare mini video
 del tuo album.
 
 **Instagram**
@@ -87,7 +85,7 @@ identificativo del tuo racconto, un claim, un colore specifico.
 
 Anche con Instagram puoi fare storytelling utilizzando la funzione
 “storie”; arricchiscile inoltre inserendo all’interno lo *swipe up* per
-aggiungere il tuo link di ancoraggio. *(glossario)* Al contrario di
+aggiungere il tuo link di ancoraggio. Al contrario di
 Facebook puoi alimentare il tuo archivio di “storie” instagram e
 metterlo in evidenza sul tuo profilo differenziandolo per categorie;
 
@@ -98,14 +96,13 @@ puntate da promuovere con foto o pillole video, accompagnate da un
 hashtag dedicato e da un link di approfondimento. Se scegli di fare
 storytelling solo sui social puoi arricchire il contenuto con frasi che
 stimolino l’interesse verso la prossima puntata del racconto. Puoi
-raccogliere il tutto con la funzione “Momento” (anchorlink a LG
-comunicazione).
+raccogliere il tutto con la funzione `“Momento” <comunicazione-digitale.html#twitter>`_
 
 **LinkedIN**
 
-Utilizza Linkedin come amplificatore del tuo racconto online
+Utilizza LinkedIN come amplificatore del tuo racconto online
 privilegiando un contenuto testuale ma accompagnandolo sempre con foto o
-brevi video. E’ ad ogni modo utile utilizzare contenuti fotografici e
+brevi video. È ad ogni modo utile utilizzare contenuti fotografici e
 video che siano fonte di informazione e coinvolgimento.
 
 .. admonition:: DEVI
@@ -118,7 +115,7 @@ video che siano fonte di informazione e coinvolgimento.
 
    - Rendere riconoscibile ogni storia della tua strategia al momento della condivisione (utilizza nelle card e nelle immagini colori, claim o hashtag diversi per storie diverse).
 
-   - Provare funzioni e strumenti che rendono i contenuti più coinvolgenti, come gli adesivi e i disegni o i brevi video di Boomerang (*vedi glossario*). L'aggiunta di elementi come musica, dialoghi o effetti sonori può aiutarti ad arricchire la tua storia e avvicinare i tuoi destinatari all’utilizzo dei servizi digitali.
+   - Provare funzioni e strumenti che rendono i contenuti più coinvolgenti, come gli adesivi e i disegni o i brevi video boomerang. L'aggiunta di elementi come musica, dialoghi o effetti sonori può aiutarti ad arricchire la tua storia e avvicinare i tuoi destinatari all’utilizzo dei servizi digitali.
 
 .. admonition:: POTRESTI
 
