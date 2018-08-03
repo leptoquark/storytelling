@@ -4,7 +4,7 @@
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 6 agosto 2018 al 7 settembre 2018
+- **Durata della consultazione:** dal 6 agosto al 7 settembre 2018
 
 
 - **Settore:** ICT
