@@ -10,7 +10,7 @@ Far vivere il racconto online
 Ogni buona strategia di storytelling ha un punto di riferimento online
 che raccoglie tutte le puntate del tuo racconto. Scegli quello che è più
 adatto tra i tuoi canali (ad esempio un’area all’interno del tuo sito,
-una landing page (anchorlink a LG comunicazione), il tuo canale medium)
+una [landing page](comunicazione-digitale.html#siti-tematici-o-landing-page), il tuo canale medium)
 creando “un’esperienza informativa” completa per l’utente sul
 prodotto/servizio o iniziativa della tua amministrazione.
 

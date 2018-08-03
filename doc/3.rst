@@ -45,7 +45,7 @@ storia coinvolgente.
 Per promuovere il lancio di una nuova modalità di accesso ai servizi, ad
 esempio SPID, potrai descrivere il percorso ad ostacoli che l’eroe (il
 cittadino) si trova ad affrontare nella quotidianità (scartoffie, file
-inutili,) sino al punto in cui si accorge che con un semplice click
+inutili, etc.) sino al punto in cui si accorge che con un semplice click
 l’accesso ai servizi si semplifica, e così il suo rapporto con la
 pubblica amministrazione.
 
@@ -153,7 +153,7 @@ comunicare la flessibilità dell’organizzazione presso il pubblico.
 Se per esempio vuoi sensibilizzare il tuo pubblico su un tema di
 attualità puoi cominciare il racconto scegliendo una partenza negativa,
 che anticipa e prefigura una conclusione peggiore, per portare il
-pubblico su un terreno noto (ci immaginiamo come andrà a finire….). Sul
+pubblico su un terreno noto (ci immaginiamo come andrà a finire...). Sul
 più bello il racconto cambia rotta, richiama l’attenzione ed offre un
 imprevedibile finale.
 
@@ -319,7 +319,7 @@ storia.
 
 .. admonition:: DOVRESTI
    
-   Comprendere nella tecnica di narrazione scelta delle soluzioni di visual storytelling per aggiungere creatività e unicità alla tua storia. Creare anteprime o spoiler della tua storia usando le stories di facebook *(vedi glossario)* o instagram.
+   Comprendere nella tecnica di narrazione scelta delle soluzioni di visual storytelling per aggiungere creatività e unicità alla tua storia. Creare anteprime o spoiler della tua storia usando le storie di facebook o instagram.
 
 .. admonition:: POTRESTI
 

@@ -2,7 +2,6 @@
 -------------------------------------------------
 
 Hai capito come e perchè può aiutarti lo storytelling?
-
 Inizia a raccontare storie per far emergere l’impatto positivo che i
 servizi digitali hanno sulla vita quotidiana dei cittadini!
 
@@ -25,8 +24,7 @@ forza di questi rispetto ai servizi tradizionali.
 
 .. admonition:: DEVI
 
-   Selezionare le informazioni essenziali da comunicare: obiettivo di uno
-storytelling efficace è catturare l’attenzione dell’interlocutore.
+   Selezionare le informazioni essenziali da comunicare: obiettivo di uno storytelling efficace è catturare l’attenzione dell’interlocutore.
 
 .. admonition:: DOVRESTI
 
