@@ -24,6 +24,11 @@ Glossario
       versione non definitiva, ma già testata, di un prodotto o servizio che viene messa a disposizione di un numero maggiore di utenti,
       il cui compito è quello di scovare quanti più bug, cioè errori, ci sono nel prodotto/servizio stesso e indicare cosa funziona
       bene, cosa no e cosa manca.
+	  
+.. glossary::
+
+   Boomerang:
+      È un’applicazione che mette a disposizione Instagram e che permette difare dei brevissimi video. Consiste nello scattare 10 foto in sequenza, che messe insieme dall’applicazione consentiranno di realizzare un video della lunghezza di 4 secondi.
  
 .. glossary::
 
@@ -41,6 +46,11 @@ Glossario
       archetipo, una rappresentazione semi-immaginaria dell’utente ideale, basata sulle ricerche di mercato e sui dati reali degli
       utenti esistenti. È utilizzato per profilare l’utente-tipo nelle sue caratteristiche personali, oltre che socio-demografiche e
       comportamentali.
+	  
+.. glossary::
+   
+   Capitale narrativo:
+      è l’universo di valori, significati, simboli che raccontano e comunicano la PA ai suoi stakeholder.
       
 .. glossary::
 
@@ -163,6 +173,11 @@ Glossario
 
    SEM: 
       branca del digital marketing che si occupa di sviluppare e mantenere la visibilità dei siti web all’interno dei motori di ricerca.
+	  
+.. glossary::
+
+   Sentiment:
+      stato d’animo degli utenti rispetto ad un determinato argomento, prodotto o azienda.
 
 .. glossary::
 
@@ -188,12 +203,17 @@ Glossario
    Social media policy: 
       l’insieme delle norme di comportamento, riguardante un’azienda o un’organizzazione, che si pone l’obiettivo di regolare una serie
       di aspetti legati ai social media (come Facebook, Twitter, LinkedIn), sia nei confronti dei dipendenti (interna), sia verso gli
-      utenti che interagiscono con i canali ufficiali (esterna).   
+      utenti che interagiscono con i canali ufficiali (esterna).
 
 .. glossary::
 
-   Sentiment:
-      stato d’animo degli utenti rispetto ad un determinato argomento, prodotto o azienda. 
+   Storie (di Facebook):
+      è una funzione di Facebook che consiste nel caricamento di immagini che non appaiono nel consueto stream dei contenuti, ma solo se si fa un tap sulla faccia del singolo amico mostrato nella nuova barra in alto. In questa barra vengono mostrati solo gli amici che hanno pubblicato qualcosa nelle ultime 24 ore e se ci sono nuovi contenuti troverete un cerchio blu a indicarlo. Passate le 24 ore dalla pubblicazione il contenuto è perso per sempre.
+	  
+.. glossary::
+
+   Swipe up:
+      è un link che può essere inserito nel contenuto delle Instagram Stories, che permette di portare l’utente fuori dall’applicazione su una landing page creata ad hoc, oppure su una pagina specifica di un sito web.
 
 .. glossary::
 
@@ -212,23 +232,3 @@ Glossario
    Viral marketing:
       tecnica di marketing non convenzionale che sfrutta la capacità comunicativa di pochi soggetti interessati per trasmettere un
       messaggio a un numero elevato di utenti finali fino a raggiungere un andamento esponenziale.
-
-.. glossary::
-
-   Boomerang:
-      È un’applicazione che mette a disposizione Instagram e che permette difare dei brevissimi video. Consiste nello scattare 10 foto in sequenza, che messe insieme dall’applicazione consentiranno di realizzare un video della lunghezza di 4 secondi.
-
-.. glossary::
-   
-   Capitale narrativo:
-      È l’universo di valori, significati, simboli che raccontano e comunicano la PA ai suoi stakeholder.
-
-.. glossary::
-
-   Swipe up:
-      È un link che può essere inserito nel contenuto delle Instagram Stories, che permette di portare l’utente fuori dall’applicazione su una landing page creata ad hoc, oppure su una pagina specifica di un sito web.
-
-.. glossary::
-
-   Storie (di Facebook):
-     È una funzione di Facebook che consiste nel caricamento di immagini che non appaiono nel consueto stream dei contenuti, ma solo se si fa un tap sulla faccia del singolo amico mostrato nella nuova barra in alto. In questa barra vengono mostrati solo gli amici che hanno pubblicato qualcosa nelle ultime 24 ore e se ci sono nuovi contenuti troverete un cerchio blu a indicarlo. Passate le 24 ore dalla pubblicazione il contenuto è perso per sempre.
