@@ -5,7 +5,7 @@ Per fare storytelling utilizza il canale più funzionale alla tua storia.
 Non tutti gli strumenti digitali sono uguali, scegli il migliore!
 
 Far vivere il racconto online
-------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ogni buona strategia di storytelling ha un punto di riferimento online
 che raccoglie tutte le puntate del tuo racconto. Scegli quello che è più
@@ -34,7 +34,7 @@ storie con nuovi i contenuti!
    Affiancare ad esempio due differenti strategie di storytelling: una di problem solving, in cui il cittadino si immedesima e comprende come utilizzare i servizi della tua amministrazione, l’altra che si orienta alla mera promozione dei servizi offerti.
 
 Social Media: rendi virale il tuo racconto
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Utilizza i social media quando vuoi creare una narrazione quotidiana:
 aggiorna e amplifica lo storytelling dei tuoi servizi digitali
@@ -63,7 +63,7 @@ sfruttali nel tuo racconto per:
    deve essere linkata nel post).
 
 Fare storytelling solo sui social media 
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Puoi scegliere di raccontare la tua storia e di avvicinare i tuoi
 interlocutori ai servizi digitali utilizzando soltanto i social media
