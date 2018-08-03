@@ -2,14 +2,6 @@ Introduzione per la consultazione pubblica
 ==========================================
 
 
-
-.. admonition:: **CONSULTAZIONE PUBBLICA**
-   
-   La consultazione pubblica per questo documento è attiva dal **24** **maggio** al **23** **giugno** **2018**.
-   Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**, disponibile per
-   la consultazione pubblica.
-
-
 **Informazioni sulla consultazione**
 
 
@@ -29,8 +21,8 @@ Addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR
 
 **Obiettivo della consultazione**
 
-Arricchire il perimetro di indicazioni suggerimenti e proposte, redatte in modalità collaborativa, da mettere a disposizione degli uffici comunicazione delle amministrazioni per fornire supporto alle attività di informazione, comunicazione e marketing finalizzate alla promozione dei servizi  digitali.
+Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in modalità collaborativa, da mettere a disposizione degli uffici comunicazione delle amministrazioni per fornire supporto alle attività di informazione, comunicazione e marketing finalizzate alla promozione dei servizi  digitali.
 
 **Come partecipare**
 
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ Forum Italia fino al 23 giugno 2018.
+Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ fino al 23 giugno 2018.
