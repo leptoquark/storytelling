@@ -1,15 +1,15 @@
-Linee Guida Storytelling
-++++++++++++++++++++++++
+
+
+Linee Guida per la Promozione dei Servizi Digitali
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 .. toctree::
-   doc/Introduzione per la consultazione pubblica.rst
+   :maxdepth: 3
 
-.. toctree::
-   :numbered:
-   :maxdepth: 2
-
-   doc/1. Racconta e coinvolgi. Perchè usare lo storytelling.rst
-   doc/2. Lo storytelling per promuovere i servizi pubblici.rst
-   doc/3. Le tecniche di storytelling.rst
-   doc/4. I canali dello storytelling.rst
-   doc/Glossario.rst
+   doc/intro_linee-guida
+   doc/intro_consultazione
+   doc/promozione-servizi-digitali
+   doc/analytics
+   doc/storytelling
+   doc/glossario

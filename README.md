@@ -1,27 +1,22 @@
-Introduzione per la consultazione pubblica
-==========================================
+# Linee guida per la promozione dei servizi digitali
 
-**Informazioni sulla consultazione**
+L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione linee guida per la Promozione dei Servizi Digitali che possano supportare le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire l’utilizzo dei servizi digitali da parte di cittadini e imprese.
+Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree tematiche:
+- Comunicazione
 
+- Marketing
 
-- **Durata della consultazione:** dal 6 agosto 2018 al 7 settembre 2018
+- Storytelling
 
+La prima area tematica, in consultazione dal 24 maggio al 24 giugno 2018, definisce il perimetro all’interno del quale si svilupperanno le diverse parti del progetto, le altre due sezioni verranno pubblicate al termine della consultazione in modo da poter approfondire in maniera dettagliata aspetti che in questa prima release vengono solo accennati.
 
-- **Settore:** ICT
-
-
-**Esiti della consultazione**
+La consultazione è rivolta agli addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR di pubbliche amministrazioni centrali e locali. Più in generale a tutti i professionisti del settore comunicazione impegnati in attività di promozione dei servizi digitali.
 
 I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
 
-**Destinatari**
 
-Addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR di pubbliche amministrazioni centrali e locali. Più in generale tutti i professionisti del settore comunicazione impegnati in attività di promozione dei servizi digitali.
+## Link al documento e consultazione
 
-**Obiettivo della consultazione**
+Link al documento Docs Italia: https://comunica-lg.readthedocs.io
 
-Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in modalità collaborativa, da mettere a disposizione degli uffici comunicazione delle amministrazioni per fornire supporto alle attività di informazione, comunicazione e marketing finalizzate alla promozione dei servizi  digitali.
-
-**Come partecipare**
-
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ fino al 7 settembre 2018.
+Link per commenti Forum Italia: https://forum.italia.it/t/lg-promozione-servizi-digitali-analytics-e-social-insights/3406

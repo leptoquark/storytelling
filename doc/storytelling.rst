@@ -23,3 +23,10 @@ consentono di essere riconosciute e ricordate *(vedi glossario) .*
 Non dimenticare che questa tecnica serve per rafforzare **fiducia con il
 cittadino**, la non autenticità dei tuoi racconti può compromettere il
 rapporto che stai costruendo con i tuoi lettori.
+
+.. toctree::
+   :maxdepth: 2
+
+   2. Lo storytelling per promuovere i servizi pubblici
+   3. Le tecniche di storytelling
+   4. I canali dello storytelling
